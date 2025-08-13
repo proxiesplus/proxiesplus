@@ -1,5 +1,6 @@
 # AltV6 - Residential, Datacenter, IPV6 Proxies
 
+https://altv6.com
 
 ### Stats
  - 🌐 Massive IP pool: We manage our own network, registered as an internet registry, and our pool contains over 500 trillion IPs.
@@ -11,6 +12,8 @@
 
 Connect with other developers, get support, and share your projects by joining our official Discord server. 
 
-[**Join Discord**](https://discord.gg/6JhEScgCe8)
+[**Discord**](https://discord.gg/6JhEScgCe8)
+
 [**Website**](https://www.altv6.com)
-<img src="https://i.imgur.com/i732BjR.jpeg"/>
+
+<img src="https://i.imgur.com/i732BjR.jpeg" style="width: 800px; height: 450px"/>
