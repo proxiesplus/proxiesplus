@@ -10,7 +10,7 @@ https://altv6.com
 
 ### Join Our Community
 
-Connect with other developers, get support, and share your projects by joining our official Discord server. 
+Join our discord for a discount code when opening a ticket
 
 [**Discord**](https://discord.gg/6JhEScgCe8)
 
